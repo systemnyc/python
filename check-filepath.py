@@ -1,5 +1,4 @@
 # This program looks files and counts them.
-
 import os
 
 isPath = False
